@@ -2,6 +2,6 @@
 - What's my goal in life?: Currently trying to learn programming languages such as Python, Haxe, TypeScript, Godot, etc.
 - Pronouns: He/They/Flower
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NebulaZone1&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NebulaZone1&theme=light)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NebulaZone1)](https://github.com/anuraghazra/github-readme-stats)
