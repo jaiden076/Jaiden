@@ -3,4 +3,10 @@
 - Pronouns: She/Her
 - Transfem
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username==nebulazone1&theme=radical)
+![](https://raw.githubusercontent.com/NebulaZone1/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/0-profile-details.svg)
+
+![](https://raw.githubusercontent.com/NebulaZone1/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/1-repos-per-language.svg)
+
+![](https://raw.githubusercontent.com/NebulaZone1/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/2-most-commit-language.svg)
+
+![](https://raw.githubusercontent.com/NebulaZone1/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/3-stats.svg)
