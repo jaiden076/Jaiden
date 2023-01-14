@@ -3,4 +3,4 @@
 - Pronouns: She/Her
 - Transfem
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nebulazone1)](https://github.com/anuraghazra/github-readme-stats theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nebulazone1)](https://github.com/anuraghazra/github-readme-statstheme=dark)
