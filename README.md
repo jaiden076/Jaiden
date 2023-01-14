@@ -5,6 +5,6 @@
 - 
 ## Stats
 
-![](https://raw.githubusercontent.com/NebulaZone1/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/nebulazone1/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/0-profile-details.svg)
 
-![](https://raw.githubusercontent.com/NebulaZone1/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/nebulazone1/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
