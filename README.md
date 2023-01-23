@@ -2,3 +2,5 @@
 - What's my goal in life?: Learn programming languages such as Python, Haxe, TypeScript, Godot, etc.
 - Pronouns: She/Her
 - Transfem
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nebulazone1gh&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
