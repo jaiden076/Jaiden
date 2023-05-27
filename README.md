@@ -1,6 +1,6 @@
-- What I work on: I work on FNF mods and other stuff that I'm interested in
-- What's my goal in life?: Learn programming languages such as Python, Haxe, TypeScript, Godot, etc.
-- Pronouns: She/Her
+- I work on FNF mods and other stuff that I'm interested in
+- Programming languages that I'm still learning: Python, Haxe, TypeScript, Godot, etc.
+- Pronouns: She/They/Uni
 - Transfem
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greyson430&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilesPolymer&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
